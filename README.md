@@ -50,3 +50,4 @@ Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 - [anime.js](http://anime-js.com/) by Julian Garnier
 - [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
 - [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
+- [main.js](http://www.codrops.com) by Mary Lou
