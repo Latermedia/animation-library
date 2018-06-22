@@ -33,7 +33,6 @@ Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 | `u--fadeOutUp`    |                  |                     |             |                      |                  |              |
 | `u--fadeOutDown`  |                  |                     |             |                      |                  |              |
 
-
 ## Contributing
 
 1. Please create a pull request
@@ -45,3 +44,9 @@ Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 </style>
 ```
 4. Create a [pen](http://codepen.io) to showcase the animation if possible :)
+
+## Credits
+
+- [anime.js](http://anime-js.com/) by Julian Garnier
+- [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
+- [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
