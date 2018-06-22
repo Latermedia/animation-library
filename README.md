@@ -20,7 +20,7 @@ Pure CSS Animation Library. Made with love at Later.com
 3. List of avialable animation classes:
 
 | Fade              | Slide            | Bounce              | Flip        | Rotate               | Zoom             | Attention    |
-| ----------------- | ---------------- | ------------------- | ----------- | -------------------- | ---------------- | ------------ |
+| :---------------- | :--------------- | :------------------ | :---------- | :------------------- | :--------------- | :----------- |
 | `u--fadeIn`       | `u--slideUp`     | `u--bounceIn`       | `u--flip`   | `u--rotate`          | `u--zoomIn`      | `u--pulse `  |
 | `u--fadeInLeft`   | `u--slideDown `  | `u--bounceOut`      | `u--flipX`  | `u--rotateUpLeft`    | `u--zoomInDown`  | `u--flash `  |
 | `u--fadeInRight`  | `u--slideLeft`   | `u--bounceInLeft`   | `u--flipY ` | `u--rotateUpRight`   | `u--zoomInUp`    | `u--bounce ` |
