@@ -31,3 +31,15 @@ Pure CSS Animation Library. Made with love at Later.com
 | `u--fadeOutRight` |                  |                     |             |                      |                  |              |
 | `u--fadeOutUp`    |                  |                     |             |                      |                  |              |
 | `u--fadeOutDown`  |                  |                     |             |                      |                  |              |
+
+
+## Contributing
+
+1. Please create a pull request
+2. Do not commit directly to master
+3. Follow current class naming convention(BEM)
+```html
+<style>
+  .u-camelCaseName
+</style>
+```
