@@ -45,7 +45,7 @@ Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 ```
 4. Create a [pen](http://codepen.io) to showcase the animation if possible :)
 
-## Credits
+## Credits (Demo Page)
 
 - [anime.js](http://anime-js.com/) by Julian Garnier
 - [imagesLoaded](http://imagesloaded.desandro.com/) by Dave DeSandro
