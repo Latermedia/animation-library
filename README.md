@@ -1,7 +1,7 @@
 # Animation Library
 Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 
-1. Simple add css or scss files to your project
+1. Simply add css or scss files to your project
 2. Apply animation class to animate an element
 3. [Live Demo](http://animation.kaustubhmenon.com)
 
@@ -16,7 +16,7 @@ Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 ```
 2. Add the animation class to the HTML element you'd like to animate.
 ```html
-<div class="u--fadeIn" >...</div>
+<div class="u--fadeIn " >Animation Library</div>
 ```
 3. List of avialable animation classes:
 
