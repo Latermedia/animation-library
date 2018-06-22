@@ -1,5 +1,5 @@
 # Animation Library
-Pure CSS Animation Library. Made with love at Later.com
+Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 
 1. Simple add css or scss files to your project
 2. Apply animation class to animate an element
@@ -43,3 +43,4 @@ Pure CSS Animation Library. Made with love at Later.com
   .u-camelCaseName
 </style>
 ```
+4. Create a [pen](http://codepen.io) to showcase the animation if possible :)
