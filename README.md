@@ -40,7 +40,7 @@ Pure CSS Animation Library. Made with love at [Later.com](https://later.com)
 3. Follow current class naming convention(BEM)
 ```html
 <style>
-  .u-camelCaseName
+  .u--camelCaseName
 </style>
 ```
 4. Create a [pen](http://codepen.io) to showcase the animation if possible :)
